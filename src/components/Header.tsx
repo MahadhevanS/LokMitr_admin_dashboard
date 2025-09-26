@@ -8,7 +8,7 @@ export function Header() {
   return (
     <header className="bg-surface border-b border-border h-16 px-6 flex items-center justify-between">
       <div className="flex items-center gap-4">
-        <h1 className="text-2xl font-bold text-primary">FixItUp Admin</h1>
+        <h1 className="text-2xl font-bold text-primary">LokMitr Admin</h1>
       </div>
       
       <div className="flex items-center gap-4">
